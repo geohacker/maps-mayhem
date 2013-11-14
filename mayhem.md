@@ -8,7 +8,13 @@ We see maps everyday, showing data at different levels, that tell stories of war
 
 ### 1. Misrepresentation of data.
 
+* [Wired Critique on the Bike Share map](www.wired.com/wiredscience/2013/10/carto-critique/)
+* [Map of civilians killed by Atlantic from the Wikileaks Warlogs](http://geocommons.com/maps/20787)
+* [The Guardian - Schools and Poverty Map](http://www.theguardian.com/news/datablog/gallery/2013/aug/01/16-useless-infographics?picture=414095960)
+* [Using maps when it's not required](http://www.gretchenpeterson.com/blog/?p=2999)
+
 ### 2. Distraction.
+* A map for a map. [Multiple legends, different layers](http://www.theguardian.com/news/datablog/gallery/2013/aug/01/16-useless-infographics?picture=414073113)
 
 ### 3. Self Promotion.
 
@@ -22,9 +28,12 @@ We see maps everyday, showing data at different levels, that tell stories of war
 ### 5. The GPS is vulnerable.
 
 * Civilian GPS doesn't have end to end encryption and no quality assurance. And like [Todd Humphreys points out](http://www.ted.com/talks/todd_humphreys_how_to_fool_a_gps.html).
+* [These scientists took control of a ship](http://www.scmagazine.com.au/News/325731,researchers-find-crippling-flaws-in-global-gps.aspx)
 
 ### 6. Maps are great, but what’s next?
 
 ## Reading List
 1. [Ground Truth: The Social Implications of Geographic Information Systems](http://www.amazon.com/Ground-Truth-Implications-Geographic-Information/dp/0898622956)
 2. [How to Lie with Maps](http://www.markmonmonier.com/how_to_lie_with_maps_14880.htm)
+3. [When Maps Shouldn’t be Maps](http://www.ericson.net/content/2011/10/when-maps-shouldnt-be-maps/)
+
