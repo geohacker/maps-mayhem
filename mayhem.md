@@ -12,9 +12,16 @@ We see maps everyday, showing data at different levels, that tell stories of war
 
 ### 3. Self Promotion.
 
+* [This article in Wired](http://www.wired.com/wiredscience/2013/11/spacial-collective-map-kibera/
+) talks about Map Kibera, but stresses on the point that the map was made a company called Spatial Collective. On the ground, it was not Spatial Collective but Map Kibera's volunteers making the map.
+
 ### 4. Mathematical challenges.
 
+* Then you can consider the map of the world is a huge misrepresentation. [True Size of Africa](http://www.dailymail.co.uk/news/article-2445615/True-size-Africa-continent-big-China-India-US-Europe-together.html)
+
 ### 5. The GPS is vulnerable.
+
+* Civilian GPS doesn't have end to end encryption and no quality assurance. And like [Todd Humphreys points out](http://www.ted.com/talks/todd_humphreys_how_to_fool_a_gps.html).
 
 ### 6. Maps are great, but what’s next?
 
