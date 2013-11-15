@@ -32,9 +32,10 @@ We see maps everyday, showing data at different levels, that tell stories of war
 
 ### 6. Maps are great, but what’s next?
 
-* [Powercurts.in](http://powercuts.in)
+* [Powercuts.in](http://powercuts.in)
 * [Harras Map Mumbai](https://akshara.crowdmap.com/)
 * [Map Kibera](http://mapkibera.org/)
+* [Dead Ushahidi](https://deadushahidi.crowdmap.com/)
 
 ## Reading List
 1. [Ground Truth: The Social Implications of Geographic Information Systems](http://www.amazon.com/Ground-Truth-Implications-Geographic-Information/dp/0898622956)
