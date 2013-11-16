@@ -14,7 +14,9 @@ We see maps everyday, showing data at different levels, that tell stories of war
 * [Using maps when it's not required](http://www.gretchenpeterson.com/blog/?p=2999)
 
 ### 2. Distraction.
+
 * A map for a map. [Multiple legends, different layers](http://www.theguardian.com/news/datablog/gallery/2013/aug/01/16-useless-infographics?picture=414073113)
+* This collection of [141 maps of US](http://michaelporath.com/projects/manifest-destiny/#overview) is overwhelming.
 
 ### 3. Self Promotion.
 
