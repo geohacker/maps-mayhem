@@ -8,6 +8,7 @@ We see maps everyday, showing data at different levels, that tell stories of war
 
 ### 1. Misrepresentation of data.
 
+* CNN Map Fail - [Hongkong is now in Brazil](https://twitter.com/GenePark/status/396389196404760576/photo/1)
 * [Wired Critique on the Bike Share map](www.wired.com/wiredscience/2013/10/carto-critique/)
 * [Map of civilians killed by Atlantic from the Wikileaks Warlogs](http://geocommons.com/maps/20787)
 * [The Guardian - Schools and Poverty Map](http://www.theguardian.com/news/datablog/gallery/2013/aug/01/16-useless-infographics?picture=414095960)
