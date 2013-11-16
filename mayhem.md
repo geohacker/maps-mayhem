@@ -13,6 +13,7 @@ We see maps everyday, showing data at different levels, that tell stories of war
 * [Map of civilians killed by Atlantic from the Wikileaks Warlogs](http://geocommons.com/maps/20787)
 * [The Guardian - Schools and Poverty Map](http://www.theguardian.com/news/datablog/gallery/2013/aug/01/16-useless-infographics?picture=414095960)
 * [Using maps when it's not required](http://www.gretchenpeterson.com/blog/?p=2999)
+* Fox News fails - [ShibuyaEggMan](http://mediamatters.org/blog/2011/12/13/foxs-graphics-department-fails-mislabeling-stat/185288)
 
 ### 2. Distraction.
 
@@ -27,6 +28,7 @@ We see maps everyday, showing data at different levels, that tell stories of war
 ### 4. Mathematical challenges.
 
 * Then you can consider the map of the world is a huge misrepresentation. [True Size of Africa](http://www.dailymail.co.uk/news/article-2445615/True-size-Africa-continent-big-China-India-US-Europe-together.html)
+* [Your brain on maps](http://bigthink.com/strange-maps/624-this-is-your-brain-on-maps)
 
 ### 5. The GPS is vulnerable.
 
@@ -45,3 +47,5 @@ We see maps everyday, showing data at different levels, that tell stories of war
 2. [How to Lie with Maps](http://www.markmonmonier.com/how_to_lie_with_maps_14880.htm)
 3. [When Maps Shouldn’t be Maps](http://www.ericson.net/content/2011/10/when-maps-shouldnt-be-maps/)
 
+## Laundry List
+* Latitude - [French for attitude](https://twitter.com/mechamoth/status/395447420554723328/photo/1)
