@@ -19,7 +19,7 @@ We see maps everyday, showing data at different levels, that tell stories of war
 
 * A map for a map. [Multiple legends, different layers](http://www.theguardian.com/news/datablog/gallery/2013/aug/01/16-useless-infographics?picture=414073113)
 * This collection of [141 maps of US](http://michaelporath.com/projects/manifest-destiny/#overview) is overwhelming.
-* ![Washington State University Parking Map](http://2.bp.blogspot.com/-_Faa6JUkzv8/Twy8XvnGcPI/AAAAAAAAABU/kdVDhRl8Jhg/s1600/bad_map_wsu_parking.jpg) 
+* Washington State University Parking Map ![Washington State University Parking Map](http://2.bp.blogspot.com/-_Faa6JUkzv8/Twy8XvnGcPI/AAAAAAAAABU/kdVDhRl8Jhg/s1600/bad_map_wsu_parking.jpg) 
 
 ### 3. Self Promotion.
 
