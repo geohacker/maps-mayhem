@@ -18,6 +18,9 @@ This project is not to foster cynicism or skepticism but to encourage a healthy 
 * Fox News fails - [ShibuyaEggMan](http://mediamatters.org/blog/2011/12/13/foxs-graphics-department-fails-mislabeling-stat/185288)
 * Meteorite Map - [Every Meteorite Fall on Earth](http://osm2.cartodb.com/tables/2320/public/map)
 
+#### 1.1 Trap Streets
+* [Automobile Association of America copying Ordnance Survey maps](http://wiki.openstreetmap.org/w/images/c/cd/19990808_AA_in_20m_battle_over_copied_OS_maps.jpg)
+
 ### 2. Distraction.
 
 * A map for a map. [Multiple legends, different layers](http://www.theguardian.com/news/datablog/gallery/2013/aug/01/16-useless-infographics?picture=414073113)
@@ -38,6 +41,7 @@ This project is not to foster cynicism or skepticism but to encourage a healthy 
 
 * Civilian GPS doesn't have end to end encryption and no quality assurance. And like [Todd Humphreys points out](http://www.ted.com/talks/todd_humphreys_how_to_fool_a_gps.html).
 * [These scientists took control of a ship](http://www.scmagazine.com.au/News/325731,researchers-find-crippling-flaws-in-global-gps.aspx)
+* [Iran brought down a US drone in 2011](http://en.wikipedia.org/wiki/Iran%E2%80%93U.S._RQ-170_incident#Capture_of_the_drone)
 
 ### 6. Maps are great, but what’s next?
 
