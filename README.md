@@ -17,7 +17,7 @@ This project is not to foster cynicism or skepticism but to encourage a healthy 
 * [Using maps when it's not required](http://www.gretchenpeterson.com/blog/?p=2999)
 * Fox News fails - [ShibuyaEggMan](http://mediamatters.org/blog/2011/12/13/foxs-graphics-department-fails-mislabeling-stat/185288)
 * Meteorite Map - [Every Meteorite Fall on Earth](http://osm2.cartodb.com/tables/2320/public/map)
-[SatNav accident](http://www.telegraph.co.uk/motoring/news/9288063/Satnav-sent-a-young-driver-to-her-death-down-the-wrong-slip-road.html)
+* [SatNav accident](http://www.telegraph.co.uk/motoring/news/9288063/Satnav-sent-a-young-driver-to-her-death-down-the-wrong-slip-road.html)
 
 #### 1.1 Trap Streets
 * [Automobile Association of America copying Ordnance Survey maps](http://wiki.openstreetmap.org/w/images/c/cd/19990808_AA_in_20m_battle_over_copied_OS_maps.jpg)
