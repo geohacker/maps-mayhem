@@ -14,6 +14,7 @@ We see maps everyday, showing data at different levels, that tell stories of war
 * [The Guardian - Schools and Poverty Map](http://www.theguardian.com/news/datablog/gallery/2013/aug/01/16-useless-infographics?picture=414095960)
 * [Using maps when it's not required](http://www.gretchenpeterson.com/blog/?p=2999)
 * Fox News fails - [ShibuyaEggMan](http://mediamatters.org/blog/2011/12/13/foxs-graphics-department-fails-mislabeling-stat/185288)
+* Meteorite Map - [Every Meteorite Fall on Earth](http://osm2.cartodb.com/tables/2320/public/map)
 
 ### 2. Distraction.
 
