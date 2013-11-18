@@ -4,6 +4,8 @@ or the Map Mayhem
 
 We see maps everyday, showing data at different levels, that tell stories of war, economy, bureaucracy, success, and corruption. There are maps being made for every reason but some of them lack the point, they misrepresent information, they lie, they undermine action or they fail to engage the audience.
 
+This project is not to foster cynicism or skepticism but to encourage a healthy critical perspective on visualising information on maps. We are hoping to collect and discuss some ways to avoid maps mayhem as well. 
+
 ## Many Ways
 
 ### 1. Misrepresentation of data.
