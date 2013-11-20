@@ -18,6 +18,8 @@ This project is not to foster cynicism or skepticism but to encourage a healthy 
 * Fox News fails - [ShibuyaEggMan](http://mediamatters.org/blog/2011/12/13/foxs-graphics-department-fails-mislabeling-stat/185288)
 * Meteorite Map - [Every Meteorite Fall on Earth](http://osm2.cartodb.com/tables/2320/public/map)
 * [SatNav accident](http://www.telegraph.co.uk/motoring/news/9288063/Satnav-sent-a-young-driver-to-her-death-down-the-wrong-slip-road.html)
+* [Weapon of Mass Destruction in Al Asad Airfield, Iraq](http://www.globalsecurity.org/military/world/iraq/images/al-asad_cib.jpg)
+* [Finding Osama Bin Laden in Tora Bora mountains](http://www.joelertola.com/grfx/grfx_img/ToraBora.gif)
 
 #### 1.1 Trap Streets
 * [Automobile Association of America copying Ordnance Survey maps](http://wiki.openstreetmap.org/w/images/c/cd/19990808_AA_in_20m_battle_over_copied_OS_maps.jpg)
@@ -37,6 +39,9 @@ This project is not to foster cynicism or skepticism but to encourage a healthy 
 
 * Then you can consider the map of the world is a huge misrepresentation. [True Size of Africa](http://www.dailymail.co.uk/news/article-2445615/True-size-Africa-continent-big-China-India-US-Europe-together.html)
 * [Your brain on maps](http://bigthink.com/strange-maps/624-this-is-your-brain-on-maps)
+* [Clip from the TV show The West Wing about Peters Projection](https://www.youtube.com/watch?v=vVX-PrBRtTY)
+* [Problems with rendering](http://www.huffingtonpost.com/2012/01/12/clement-vallas-mesmerizin_n_1202937.html)
+* [The Amazing iOS maps](http://theamazingios6maps.tumblr.com/)
 
 ### 5. The GPS is vulnerable.
 
